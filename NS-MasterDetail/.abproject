@@ -1,0 +1,28 @@
+{
+  "ProjectName": "NS-MasterDetail",
+  "ProjectGuid": "4d846cd9-33c4-4e55-a477-1947179a1950",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NSMasterDetail",
+  "DisplayName": "NS-MasterDetail",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "0.10.0",
+  "Framework": "NativeScript"
+}
